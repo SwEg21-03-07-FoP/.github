@@ -9,6 +9,7 @@
 
 ## 📗 Table of Contents
 
+<a href="https://github.com/SwEg21-03-07-FoP/Course-Syllabus">Course Syllabus 1</a></li> 
 ### 📖 Chapter-1 Algorithms Design
 <ul>
   <li><a href="#">Exercise 1</a></li>
