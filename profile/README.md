@@ -15,10 +15,10 @@
 - [Install CodeBlocks ( IDE 20.03 ) with MinGW for C and C++](https://www.youtube.com/watch?v=GWJqsmitR2I)
 - [Basics of Git Hub](./GitHub_Basics.md)
 - [Git and Git Hub Tutorial](https://github.com/SwEg21-03-07-FoP/Collaboration-Tools/blob/main/Git-and-Github.md)
-
-- [Learn Computer Programming Faster](https://github.com/SwEg21-03-07-FoP/Learn-Computer-Programming-Faster)
 - [Working with GitHub in VS Code](./Link_VScode_with_GitHub.md)
-- [Text Editors](https://www.theodinproject.com/lessons/foundations-text-editors)
+  
+- [Learn Computer Programming Faster](https://github.com/SwEg21-03-07-FoP/Learn-Computer-Programming-Faster)
+- [Coding Standards and Best Practices](https://github.com/SwEg21-03-07-FoP/Coding-Standards-and-Best-practices)
   
 ### 📖 Chapter-1 Algorithms Design
 <ul>
