@@ -9,13 +9,15 @@
 
 ## 📗 Table of Contents
 
-<a href="https://github.com/SwEg21-03-07-FoP/Course-Syllabus">Course Syllabus</a>
-<br/>
-<a href="https://github.com/SwEg21-03-07-FoP/Collaboration-Tools/blob/main/Git-and-Github.md">Git and Git Hub Tutorial</a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-
+- [Course Syllabus](https://github.com/SwEg21-03-07-FoP/Course-Syllabus)
+- [Git and Git Hub Tutorial](https://github.com/SwEg21-03-07-FoP/Collaboration-Tools/blob/main/Git-and-Github.md)
+- [How to Set up VS Code for C and C++ Programming](https://www.youtube.com/watch?v=77v-Poud_io)
+- [Basics of Git Hub](./GitHub_Basics.md)
+- [Install C and C++ Compilers on Windows](./Install_C_and_C++_Compilers_on-Windows.md)
+- [Install CodeBlocks ( IDE 20.03 ) with MinGW for C and C++](https://www.youtube.com/watch?v=GWJqsmitR2I)
+- [Working with GitHub in VS Code](./Link_VScode_with_GitHub.md)
+- [Text Editors](https://www.theodinproject.com/lessons/foundations-text-editors)
+  
 ### 📖 Chapter-1 Algorithms Design
 <ul>
   <li><a href="#">Exercise 1</a></li>
