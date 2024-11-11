@@ -9,7 +9,12 @@
 
 ## 📗 Table of Contents
 
-<a href="https://github.com/SwEg21-03-07-FoP/Course-Syllabus">Course Syllabus 1</a></li> 
+<a href="https://github.com/SwEg21-03-07-FoP/Course-Syllabus">Course Syllabus</a>
+<a href="https://github.com/SwEg21-03-07-FoP/Collaboration-Tools/blob/main/Git-and-Github.md">Git and Git Hub Tutorial</a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+
 ### 📖 Chapter-1 Algorithms Design
 <ul>
   <li><a href="#">Exercise 1</a></li>
