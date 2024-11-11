@@ -10,6 +10,7 @@
 ## 📗 Table of Contents
 
 <a href="https://github.com/SwEg21-03-07-FoP/Course-Syllabus">Course Syllabus</a>
+<br/>
 <a href="https://github.com/SwEg21-03-07-FoP/Collaboration-Tools/blob/main/Git-and-Github.md">Git and Git Hub Tutorial</a>
 <a href=""></a>
 <a href=""></a>
