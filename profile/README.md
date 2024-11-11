@@ -19,6 +19,7 @@
   
 - [Learn Computer Programming Faster](https://github.com/SwEg21-03-07-FoP/Learn-Computer-Programming-Faster)
 - [Coding Standards and Best Practices](https://github.com/SwEg21-03-07-FoP/Coding-Standards-and-Best-practices)
+- [C++ Developer Roadmap](https://github.com/SwEg21-03-07-FoP/CppDeveloperRoadmap)
   
 ### 📖 Chapter-1 Algorithms Design
 <ul>
