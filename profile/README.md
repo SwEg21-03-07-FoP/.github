@@ -102,10 +102,12 @@
       <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/4.6%20accessing%201D%20array%20elements.cpp">Accessing 1D Array Elements</a></li>
       <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/4.8%202D%20array%20element%20manipulation.cpp">2D Array Elements Manipulation</a></li>
       <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/4.9%20power%20and%20current%20calculator.cpp">Read Current and Find Power</a></li>
-      <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/2.10%20read%20and%20print%20string.cpp">Read Full Name and Print it with Welcome Message</a></li>
-      <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/2.11%20print%20string%20in%20lowercase%20and%20uppercase.cpp">Read a line text and Print it in both in lowercase and uppercase</a></li>
-      <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/2.12%20print%20longest%20movie%20titles.cpp">Find and Print Longest Movie Title</a></li>
-      <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/2.13%20read%20students%20name.cpp">Read List of Name and Print with unix prefix</a></li>
+      <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/4.10%20read%20and%20print%20string.cpp">Read Full Name and Print it with Welcome Message</a></li>
+      <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/4.11%20print%20string%20in%20lowercase%20and%20uppercase.cpp">Read a line text and Print it in both in lowercase and uppercase</a></li>
+      <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/4.12%20print%20longest%20movie%20titles.cpp">Find and Print Longest Movie Title</a></li>
+      <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/4.13%20read%20students%20name.cpp">Read List of Name and Print with unix prefix</a></li>
+      <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/4.14%20Water_bill_invoice_v1.cpp">Water Invoice Calculator V1</a></li>
+      <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/4.15%20Water_bill_invoice_v2.cpp">Water Invoice Calculator V1</a></li>
  </ul>
 
  ##### Quiz on Array and String
