@@ -11,7 +11,7 @@
 
 - [Course Syllabus](https://github.com/SwEg21-03-07-FoP/Course-Syllabus)
 - [How to Set up VS Code for C and C++ Programming](https://www.youtube.com/watch?v=77v-Poud_io)
-- [Install C and C++ Compilers on Windows](/Development-Tools/Install_C_and_C++_Compilers_on-Windows.md)
+- [Install C and C++ Compilers on Windows](../Development-Tools/Install_C_and_C++_Compilers_on-Windows.md)
 - [Install CodeBlocks ( IDE 20.03 ) with MinGW for C and C++](https://www.youtube.com/watch?v=GWJqsmitR2I)
 - [Basics of Git Hub](./GitHub_Basics.md)
 - [Git and Git Hub Tutorial](https://github.com/SwEg21-03-07-FoP/Collaboration-Tools/blob/main/Git-and-Github.md)
