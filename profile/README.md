@@ -23,14 +23,14 @@
 
 - [How to Become Effective in my Learning, and Career](https://github.com/SwEg21-03-07-FoP/Professional-skills) 
   
-### 📖 Chapter-1 Algorithms Design
+### 📖 Chapter-1: Basics of program development
 <ul>
   <li><a href="https://sweg21-03-07-fop.github.io/FoP_I_Chapter_One/"> Lecture Note </a></li> 
   <li><a href="#">Exercise 1</a></li>
   <li><a href="#">Exercise 2</a></li>
 </ul>
 
-### 📖 Chapter-2 Basics of Programming Constructor
+### 📖 Chapter-2: Basics of Programming Constructor
 <ul>
    <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-2%20Basic%20Programming%20Constructors/1%20BMI%20calculator%20V1.cpp">Exercise 2.1 - BMI Calculator V1</a></li>
    <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-2%20Basic%20Programming%20Constructors/2%20alphabet%20case%20convertor.cpp">Exercise 2.2 - Alphabet Case Convertor.</a></li>
@@ -41,7 +41,7 @@
   <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-2%20Basic%20Programming%20Constructors/6%20temprature%20convertor.cpp">Exercise 2.7 - Temprature Convertor </a></li>
 </ul>
 
-### 📖 Chapter-3 Flow Controls
+### 📖 Chapter-3: Flow Controls
 
 #### <a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.0%20summary%20of%20chapter.md">Summary of the Chapter </a>
 
@@ -86,7 +86,7 @@
       <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.14 factorial.cpp">Factorial: using all types of loop </a></li>
 </ul>
 
-### 📖 Chapter-4 Array and Strings
+### 📖 Chapter-4: Array and Strings
 
  ##### Activity 4.1: Array and String Initialization
  <ul>
