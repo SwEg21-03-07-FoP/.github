@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1><b> Fundamentals of Programming I </b></h1>
-  <h2><b> <a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution"> Practical Exercises Solution and Summary Note</a></b></h2>
+  <h2><b> <a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution"> Lecture Note and Practical Exercises</a></b></h2>
 </div>
 
 
