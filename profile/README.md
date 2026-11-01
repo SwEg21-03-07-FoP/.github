@@ -28,8 +28,8 @@
 #### 📝 <a href="https://sweg21-03-07-fop.github.io/FoP_I_Chapter_One/"> Lecture Note </a>
 #### 💻 <a href="#"> Practice Exercises </a>  
 <ul>
-  <li><a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_One/blob/main/Flowchart%20Practice%20Exercises.pdf">Algorithm Design </a></li>
-  <li><a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_One/blob/main/Flowchart%20Exercises%20Solution.md">Exercises Solution</a></li>
+  <li><a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_One/blob/main/Flowchart_Practice_Exercises.pdf">Algorithm Design </a></li>
+  <li><a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_One/blob/main/Flowchart_Exercises_Solution.md">Exercises Solution</a></li>
 </ul>
 
 #### ❓<a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_One/blob/main/Revision_Quiz_MCQ.pdf"> Revision Quiz - MCQ </a>  
