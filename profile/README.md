@@ -25,6 +25,7 @@
   
 ### 📖 Chapter-1 Algorithms Design
 <ul>
+  <li><a href=""> Lecture Note </a></li> 
   <li><a href="#">Exercise 1</a></li>
   <li><a href="#">Exercise 2</a></li>
 </ul>
