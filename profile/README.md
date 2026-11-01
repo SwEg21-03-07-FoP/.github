@@ -26,7 +26,7 @@
 ### 📖 Chapter-1: Basics of program development
 <ul>
   <li><a href="https://sweg21-03-07-fop.github.io/FoP_I_Chapter_One/"> Lecture Note </a></li> 
-  <li><a href="#">Exercise 1</a></li>
+  <li><a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_One/blob/main/Flowchart%20Practice%20Exercises.pdf">Flowchart Practice Exercises</a></li>
   <li><a href="#">Exercise 2</a></li>
 </ul>
 
