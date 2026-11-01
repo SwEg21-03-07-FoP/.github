@@ -30,7 +30,6 @@
 <ul>
   <li><a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_One/blob/main/Flowchart%20Practice%20Exercises.pdf">Algorithm Design </a></li>
   <li><a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_One/blob/main/Flowchart%20Exercises%20Solution.md">Exercises Solution</a></li>
-  <li><a href="">Revision Quiz - MCQ</a></li>
 </ul>
 
 #### ❓<a href="https://sweg21-03-07-fop.github.io/FoP_I_Chapter_One/"> Revision MCQ </a>  
