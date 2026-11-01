@@ -25,7 +25,7 @@
   
 ### 📖 Chapter-1 Algorithms Design
 <ul>
-  <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-1%20Algorithm%20Design/Lecture%20Note.html"> Lecture Note </a></li> 
+  <li><a href="https://claude.ai/artifact/KiLAYZMLRvUmHicpQ238Pi"> Lecture Note </a></li> 
   <li><a href="#">Exercise 1</a></li>
   <li><a href="#">Exercise 2</a></li>
 </ul>
