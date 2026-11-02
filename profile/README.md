@@ -22,7 +22,25 @@
 - [C++ Developer Roadmap](https://github.com/SwEg21-03-07-FoP/CppDeveloperRoadmap)
 
 - [How to Become Effective in my Learning, and Career](https://github.com/SwEg21-03-07-FoP/Professional-skills) 
-  
+
+### 📖 E-Books
+<ul>
+  <li><a href=""> Flowchart and Algorithm Basics: The Art of Programming </a></li>
+  <li><a href=""> Problem Solving With C++ (10th edition) </a></li>
+  <li><a href=""> An Introduction to Programming with C++ (8th Edition) </a></li>
+  <li><a href=""> C++ how to program, (10th, Global Edition) </a></li>
+  <li><a href=""> C++ For Engineers and Scientists (3rd edition) </a></li>
+</ul> 
+
+### 🌐 Online Resources
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/cpp/c-plus-plus/"> GeeksforGeeks </a></li>
+  <li><a href="https://www.w3schools.com/cpp/default.asp"> W3schools </a></li>
+  <li><a href="https://programiz.pro/resources/cpp"> Programiz </a></li>
+  <li><a href="https://www.hackerrank.com/domains/cpp"> Hackerrank </a></li>
+  <li><a href="https://cplusplus.com/doc/tutorial/"> Cplusplus </a></li>
+</ul>
+
 ### Chapter-1: Basics of Program Development
 
 #### 📝 <a href="https://sweg21-03-07-fop.github.io/FoP_I_Chapter_One/"> Lecture Note </a>
