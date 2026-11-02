@@ -25,11 +25,11 @@
 
 ### 📖 E-Books
 <ul>
-  <li><a href="https://drive.google.com/drive/u/0/folders/130rdbLXEC_qCpqyPcwSdK3OXUTcN9leq"> Flowchart and Algorithm Basics: The Art of Programming </a></li>
-  <li><a href="https://drive.google.com/drive/u/0/folders/130rdbLXEC_qCpqyPcwSdK3OXUTcN9leq"> Problem Solving With C++ (10th edition) </a></li>
-  <li><a href="https://drive.google.com/file/d/1TrjwoFtCZzzt5oPBdEbo0zRAJ2q2FXO6/view?usp=sharing"> An Introduction to Programming with C++ (8th Edition) </a></li>
-  <li><a href="https://drive.google.com/drive/u/0/folders/130rdbLXEC_qCpqyPcwSdK3OXUTcN9leq"> C++ How to program, (10th, Global Edition) </a></li>
-  <li><a href="https://drive.google.com/drive/u/0/folders/130rdbLXEC_qCpqyPcwSdK3OXUTcN9leq"> C++ For Engineers and Scientists (3rd edition) </a></li>
+  <li><a href="https://drive.google.com/file/d/12djrPpU81fPHS7H5URmiNV5JQevmD45E/view?usp=sharing">Flowchart and Algorithm Basics: The Art of Programming </a></li>
+  <li><a href="https://drive.google.com/file/d/1TorMQc4A7xtMgYTuZggGBAgTyoQXeKw3/view?usp=sharing">Problem Solving With C++ (10th edition) </a></li>
+  <li><a href="https://drive.google.com/file/d/1TrjwoFtCZzzt5oPBdEbo0zRAJ2q2FXO6/view?usp=sharing">An Introduction to Programming with C++ (8th Edition) </a></li>
+  <li><a href="https://drive.google.com/file/d/1aj2KWvBP17GH7aDcx-82BCfeY6doGKVo/view?usp=sharing">C++ How to program, (10th, Global Edition) </a></li>
+  <li><a href="https://drive.google.com/file/d/1GLNdS2NDpqg1RNn_XB9MlXcHJDIWPIyY/view?usp=sharing">C++ For Engineers and Scientists (3rd edition) </a></li>
 </ul> 
 
 ### 🌐 Online Resources
