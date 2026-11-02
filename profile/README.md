@@ -25,11 +25,11 @@
 
 ### 📖 E-Books
 <ul>
-  <li><a href=""> Flowchart and Algorithm Basics: The Art of Programming </a></li>
-  <li><a href=""> Problem Solving With C++ (10th edition) </a></li>
-  <li><a href=""> An Introduction to Programming with C++ (8th Edition) </a></li>
-  <li><a href=""> C++ how to program, (10th, Global Edition) </a></li>
-  <li><a href=""> C++ For Engineers and Scientists (3rd edition) </a></li>
+  <li><a href="https://drive.google.com/drive/u/0/folders/130rdbLXEC_qCpqyPcwSdK3OXUTcN9leq"> Flowchart and Algorithm Basics: The Art of Programming </a></li>
+  <li><a href="https://drive.google.com/drive/u/0/folders/130rdbLXEC_qCpqyPcwSdK3OXUTcN9leq"> Problem Solving With C++ (10th edition) </a></li>
+  <li><a href="https://drive.google.com/drive/u/0/folders/130rdbLXEC_qCpqyPcwSdK3OXUTcN9leq"> An Introduction to Programming with C++ (8th Edition) </a></li>
+  <li><a href="https://drive.google.com/drive/u/0/folders/130rdbLXEC_qCpqyPcwSdK3OXUTcN9leq"> C++ How to program, (10th, Global Edition) </a></li>
+  <li><a href="https://drive.google.com/drive/u/0/folders/130rdbLXEC_qCpqyPcwSdK3OXUTcN9leq"> C++ For Engineers and Scientists (3rd edition) </a></li>
 </ul> 
 
 ### 🌐 Online Resources
