@@ -60,7 +60,7 @@
   <li><a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_Two/blob/main/Ch2_Exercises_Solutions.pdf">Exercises Solutions</a></li>
 </ul>
 
-#### ❓<a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_Two/blob/main/Ch2_Revision_Quiz_MCQ">Ch2 Revision Quiz - MCQ </a>  
+#### ❓<a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_Two/blob/main/Ch2_Revision_Quiz_MCQ.pdf">Ch2 Revision Quiz - MCQ </a>  
 
 ### More Practical Examples
 <ul>
