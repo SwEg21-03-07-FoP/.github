@@ -40,7 +40,7 @@
   <li><a href="https://cplusplus.com/doc/tutorial/"> Cplusplus </a></li>
 </ul>
 
-### Chapter-1: Basics of Program Development
+<h2>Chapter 1: Basics of Program Development</h2> 
 
 #### 📝 <a href="https://sweg21-03-07-fop.github.io/FoP_I_Chapter_One/"> Lecture Note </a>
 #### 💻 <a href="#"> Practice Exercises </a>  
@@ -49,11 +49,20 @@
   <li><a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_One/blob/main/Flowchart_Exercises_Solution.md">Exercises Solution</a></li>
 </ul>
 
-#### ❓<a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_One/blob/main/Revision_Quiz_MCQ.pdf"> Revision Quiz - MCQ </a>  
+#### ❓<a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_One/blob/main/Revision_Quiz_MCQ.pdf"> Ch1 Revision Quiz - MCQ </a>  
 
-### Chapter-2: Basics of Programming Constructor
+<h2>Chapter 2: Basics of Programming Constructor</h2> 
 
-##### Practical Exercises
+#### 📝 <a href="https://sweg21-03-07-fop.github.io/FoP_I_Chapter_Two/"> Lecture Note </a>
+#### 💻 <a href="#"> Practice Exercises </a>  
+<ul>
+  <li><a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_Two/blob/main/Ch2_Practice_Exercises.pdf">Practical Excercise </a></li>
+  <li><a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_Two/blob/main/Ch2_Exercises_Solutions.pdf">Exercises Solutions</a></li>
+</ul>
+
+#### ❓<a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_Two/blob/main/Ch2_Revision_Quiz_MCQ">Ch2 Revision Quiz - MCQ </a>  
+
+### More Practical Examples
 <ul>
    <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-2%20Basic%20Programming%20Constructors/1%20BMI%20calculator%20V1.cpp">Exercise 2.1 - BMI Calculator V1</a></li>
    <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-2%20Basic%20Programming%20Constructors/2%20alphabet%20case%20convertor.cpp">Exercise 2.2 - Alphabet Case Convertor.</a></li>
