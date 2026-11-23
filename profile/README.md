@@ -83,7 +83,7 @@
   <li><a href="#">Exercises Solutions</a></li>
 </ul>
 
-#### ❓<a href="#">Ch2 Revision Quiz - MCQ </a>  
+#### ❓<a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_Three/blob/main/Ch3_Revision_Quiz_MCQ.pdf">Ch3 Revision Quiz - MCQ </a>  
 
 ### More Practical Examples
 ##### Exercise 3.1
